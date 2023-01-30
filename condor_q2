@@ -1,0 +1,15 @@
+
+
+-- Schedd: boram-System-Product-Name : <127.0.0.1:9618?... @ 01/25/23 17:38:33
+ ID      OWNER            SUBMITTED     RUN_TIME ST PRI SIZE CMD
+ 479.7   boram           1/25 10:20   0+07:17:42 R  0   74.0 Gate /home/boram/.Gate/DC_SR15H30_CH15S1_SP7/DC_SR15H30_CH15S1_SP8.mac
+ 479.19  boram           1/25 10:20   0+07:17:42 R  0   74.0 Gate /home/boram/.Gate/DC_SR15H30_CH15S1_SP7/DC_SR15H30_CH15S1_SP20.mac
+ 479.23  boram           1/25 10:20   0+07:17:42 R  0   74.0 Gate /home/boram/.Gate/DC_SR15H30_CH15S1_SP7/DC_SR15H30_CH15S1_SP24.mac
+ 479.33  boram           1/25 10:20   0+07:17:42 R  0   74.0 Gate /home/boram/.Gate/DC_SR15H30_CH15S1_SP7/DC_SR15H30_CH15S1_SP34.mac
+ 479.56  boram           1/25 10:20   0+07:17:42 R  0   74.0 Gate /home/boram/.Gate/DC_SR15H30_CH15S1_SP7/DC_SR15H30_CH15S1_SP57.mac
+ 479.87  boram           1/25 10:20   0+07:17:42 R  0   74.0 Gate /home/boram/.Gate/DC_SR15H30_CH15S1_SP7/DC_SR15H30_CH15S1_SP88.mac
+
+Total for query: 6 jobs; 0 completed, 0 removed, 0 idle, 6 running, 0 held, 0 suspended 
+Total for boram: 6 jobs; 0 completed, 0 removed, 0 idle, 6 running, 0 held, 0 suspended 
+Total for all users: 6 jobs; 0 completed, 0 removed, 0 idle, 6 running, 0 held, 0 suspended
+

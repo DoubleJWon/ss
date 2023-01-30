@@ -1,0 +1,10 @@
+
+
+-- Schedd: boram-System-Product-Name : <127.0.0.1:9618?... @ 01/25/23 17:37:56
+OWNER BATCH_NAME    SUBMITTED   DONE   RUN    IDLE  TOTAL JOB_IDS
+boram ID: 479      1/25 10:20    114      6      _    120 479.7-87
+
+Total for query: 6 jobs; 0 completed, 0 removed, 0 idle, 6 running, 0 held, 0 suspended 
+Total for boram: 6 jobs; 0 completed, 0 removed, 0 idle, 6 running, 0 held, 0 suspended 
+Total for all users: 6 jobs; 0 completed, 0 removed, 0 idle, 6 running, 0 held, 0 suspended
+
